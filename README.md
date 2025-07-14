@@ -16,7 +16,7 @@ No se requieren librerías adicionales.
 ### **Paso 1:**
 Clona este repositorio
 ```bash
-git clone https://github.com/Ivancastl/x200.git
+git clone https://github.com/Ivancastl/combolist.git
 ```
 
 ### **Paso 2:**
@@ -28,13 +28,13 @@ Dentro de esta carpeta ingresa los archivos a leer txt
 ### **Paso 3:**
 Accede al directorio del proyecto
 ```bash
-cd x200
+cd combolist
 ```
 
 ### **Paso 4:**
 Ejecuta el script principal
 ```bash
-python leer200.py
+python filtrado.py
 ```
 
 ### **Paso 5:**
